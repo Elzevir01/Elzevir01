@@ -5,21 +5,31 @@ Actualmente estoy actualizando algunos proyectos anteriores a Selenium 4 y Appiu
 También aprendiendo e implementando Docker para Selenium 4 Hub/Nodes,
 Iniciándome en a su vez con la Integración continua y Distribución continua(CI/CD) con Jenkins.
 
-Familiaridad con herramientas de relacionadas a la automatizacion y una descripcion.
-
 Estoy trabajando en entorno de desarrollo en Linux  las pruebas en Selenium Grid distribuido en y diferentes dispositivos reales de Linux, Windows y Android. 
 Recientemente ademas Docker Selenium Hub y diferentes Nodes.
 
-[|||||||||-] Java
-[||||||||--] c#
-[||||||||--] Selenium 3 & 4
-[|||||||||-] Maven
-[||||||||--] TestNG 
-[|||||||---] MySQL/SQL S
-[||||------] Appium   7&8 
-[|||||-----] HTML/CSS 
-[|||-------] Jmeter
-[|||-------] Allure Report
-[||--------] Docker(*)
-[|---------] Jenkins(*)
-(*) recien iniciado
+Familiaridad con herramientas de relacionadas a la automatizacion.
+
+Java [|||||||||-]
+
+c# [||||||||--]
+
+Selenium 3&4 [||||||||--]
+
+Maven [|||||||||-]
+
+TestNG [||||||||--]
+
+MySQL/SQL Server [|||||||---]
+
+Appium   7&8 [||||------]
+
+HTML/CSS  [|||||-----]
+
+Jmeter [|||-------]
+
+Allure Report [|||-------]
+
+Docker [||--------](recien iniciado)
+
+Jenkins [|---------](recien iniciado)
