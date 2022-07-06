@@ -11,27 +11,15 @@ Estoy trabajando en entorno de desarrollo en Linux  las pruebas en Selenium Grid
 Recientemente ademas Docker Selenium Hub y diferentes Nodes.
 
 [|||||||||-] Java
-
 [||||||||--] c#
-
 [||||||||--] Selenium 3 & 4
-
 [|||||||||-] Maven
-
 [||||||||--] TestNG 
-
 [|||||||---] MySQL/SQL S
-
 [||||------] Appium   7&8 
-
 [|||||-----] HTML/CSS 
-
 [|||-------] Jmeter
-
 [|||-------] Allure Report
-
 [||--------] Docker(*)
-
 [|---------] Jenkins(*)
-
 (*) recien iniciado
