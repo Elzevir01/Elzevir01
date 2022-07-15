@@ -1,35 +1,24 @@
-Hola, Me llamo Matias, actualmente estoy estudiando/practicando por en el área de QA Automation Testing.
-Estoy publicando mis proyectos de practica en este espacio para libre consulta.
+Hola, Me llamo Matias, estos últimos dos años estuve estudiando y practicando por cuenta propia el QA Automation Testing. Estudie en tecnicatura en programación en la UTN, aunque deje inconclusa por motivos personales tengo experiencia en desarrollo en de software de gestión de productos.
 
-Actualmente estoy actualizando algunos proyectos anteriores a Selenium 4 y Appium 8.                                                                      
-También aprendiendo e implementando Docker para Selenium 4 Hub/Nodes,
-Iniciándome en a su vez con la Integración continua y Distribución continua(CI/CD) con Jenkins.
+Desde principio del 2022 publico mis proyectos de practica en este GitHub, estos consisten en una navegación a una pagina web y probar alguna de sus funciones, características u obtencion datos y generando informes  por medio de scrypts de pruebas desarrolladas en un entorno Linux con Java y Frameworks como Selenium, TestNG, Maven, Appium y Allure Reports. Por otro lado las pruebas de estos los ejecuto desde Jenkins alojado en otra PC dedicada como servidor Linux junto a MySQL y Selenium Hub / Nodes de diferentes navegadores en contenedores Docker.
 
-Estoy trabajando en entorno de desarrollo en Linux  las pruebas en Selenium Grid distribuido en y diferentes dispositivos reales de Linux, Windows y Android. 
-Recientemente ademas Docker Selenium Hub y diferentes Nodes.
+Actualmente estoy terminando de actualizar algunos proyectos anteriores de Selenium 3 a Selenium 4 y Appium 7 a 8 que dejaron muchas funciones obsoletas, También estoy aprendiendo e implementando contenedores Docker para las pruebas de mis proyectos e iniciándome en a su vez con la Integración continua y Distribución continua(CI/CD) con Jenkins.
 
-Familiaridad con herramientas de relacionadas a la automatizacion.
+Un rápido vistazo a mi familiaridad con las herramientas de interés.
 
-Java [|||||||||-]
+<-- MENOS [1][2][3][4][5][6][7][8][9][10] MAS -->
 
-c# [||||||||--]
-
-Selenium 3&4 [||||||||--]
-
-Maven [|||||||||-]
-
-TestNG [||||||||--]
-
-MySQL/SQL Server [|||||||---]
-
-Appium   7&8 [||||------]
-
-HTML/CSS  [|||||-----]
-
-Jmeter [|||-------]
-
-Allure Report [|||-------]
-
-Docker [||--------](recien iniciado)
-
-Jenkins [|---------](recien iniciado)
+║Java[9]
+║c#[8]
+║Selenium 3/4[8]
+║Maven[9]
+║TestNG[8]
+║MySQL/SQL Server[7]
+║Git[6]
+║Appium[3]
+║HTML/CSS[5]
+║Jmeter[3]
+║Allure Report[2]
+║Docker[3](recien iniciado)
+║Jenkins[2](recien iniciado)
+║
