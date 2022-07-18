@@ -8,17 +8,17 @@ Un rápido vistazo a mi familiaridad con las herramientas de interés.
 
 <-- MENOS [1][2][3][4][5][6][7][8][9][10] MAS -->
 
-║Java[9]
-║c#[8]
-║Selenium 3/4[8]
-║Maven[9]
-║TestNG[8]
-║MySQL/SQL Server[7]
-║Git[6]
-║Appium[3]
-║HTML/CSS[5]
-║Jmeter[3]
-║Allure Report[2]
-║Docker[3](recien iniciado)
-║Jenkins[2](recien iniciado)
+║Java [9]
+║c# [8]
+║Selenium 3/4 [8]
+║Maven [9]
+║TestNG [8]
+║MySQL/SQL Server [7]
+║Git [6]
+║Appium [3]
+║HTML/CSS [5]
+║Jmeter [3]
+║Allure Report [2]
+║Docker [3](recien iniciado)
+║Jenkins [2](recien iniciado)
 ║
