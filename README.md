@@ -19,6 +19,6 @@ Un rápido vistazo a mi familiaridad con las herramientas de interés.
 ║HTML/CSS [5]
 ║Jmeter [3]
 ║Allure Report [2]
-║Docker [3](recien iniciado)
-║Jenkins [2](recien iniciado)
+║Docker [5](recien iniciado)
+║Jenkins [3](recien iniciado)
 ║
