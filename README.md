@@ -9,7 +9,7 @@ Un rápido vistazo a mi familiaridad con las herramientas de interés.
 <-- MENOS [1][2][3][4][5][6][7][8][9][10] MAS -->
 
 | Herramienta  | Familiaridad |
-| ------------- | ------------- |
+| -------------: | :------------- |
 | Java  | 8 |
 | C#  | 7  |
 | Selenium 4 | 8 |
