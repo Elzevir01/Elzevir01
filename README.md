@@ -15,7 +15,7 @@ Un rápido vistazo a mi familiaridad con las herramientas de interés.
 | Selenium 4 | 8 |
 | Maven | 9 |
 | TestNG | 8 |
-| MySQL/SQLSever | 7 |
+| MySQL | 7 |
 | Git | 7 |
 | Appium | 5 |
 | HTML/CSS | 5 |
