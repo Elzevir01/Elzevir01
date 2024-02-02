@@ -22,3 +22,10 @@ Un rápido vistazo a mi familiaridad con las herramientas de interés.
 ║Docker [5]
 ║Jenkins [3](recien iniciado)
 ║JavaScript [2](recien iniciado)
+
+
+| Herramienta  | Mi familiaridad |
+| ------------- | ------------- |
+| Java  | 8 |
+| C#  | 7  |
+| Selenium 4 | 8 |
