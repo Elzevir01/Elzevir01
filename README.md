@@ -3,20 +3,19 @@ Desde principio del 2022 publico mis proyectos de practica en este GitHub, estos
 
 Un rápido vistazo a mi familiaridad con las herramientas de interés.
 
-<-- MENOS [1][2][3][4][5][6][7][8][9][10] MAS -->
 
 | Herramienta  | Familiaridad |
 | -------------: | :------------- |
-| Java  | 8 |
-| C#  | 7  |
-| Selenium 4 | 8 |
-| Maven | 9 |
-| TestNG | 8 |
-| MySQL | 7 |
-| Git | 7 |
-| Appium | 5 |
-| HTML/CSS | 5 |
-| Jmeter | 3 |
-| Allure Report | 4 |
-| Docker | 6 |
-| jekins | 5 |
+| Java  | Alta |
+| C#  | Alta |
+| Selenium 4 | Alta |
+| Maven | Alta |
+| TestNG | Alta |
+| MySQL | Media-Alta |
+| Git | Media |
+| Appium | Media |
+| HTML/CSS | Media |
+| Jmeter | Baja |
+| Allure Report | Baja-Media |
+| Docker | Media |
+| jekins | Baja-Media |
